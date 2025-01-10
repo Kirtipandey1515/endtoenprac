@@ -1,0 +1,319 @@
+2025-01-10 14:31:49,384 :INFO: test_Home :getting form submission
+2025-01-10 14:35:16,709 :INFO: test_Home :getting form submission
+2025-01-10 14:42:35,161 :INFO: test_Home :getting form submission
+2025-01-10 14:42:35,161 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 14:42:35,161 :INFO: test_Home :information statement
+2025-01-10 14:42:35,161 :WARNING: test_Home :Something is in warning mode
+2025-01-10 14:42:35,161 :ERROR: test_Home :A major error has happened
+2025-01-10 14:42:35,161 :CRITICAL: test_Home :Critical issue
+2025-01-10 14:44:05,696 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 14:44:05,696 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 14:44:05,696 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 14:44:05,696 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 14:44:05,696 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 14:44:05,705 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 14:44:05,705 :INFO: test_Home :information statement
+2025-01-10 14:44:05,705 :WARNING: test_Home :Something is in warning mode
+2025-01-10 14:44:05,705 :ERROR: test_Home :A major error has happened
+2025-01-10 14:44:05,705 :CRITICAL: test_Home :Critical issue
+2025-01-10 14:44:06,504 :INFO: test_Home :getting form submission
+2025-01-10 14:46:17,074 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 14:46:17,078 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 14:46:17,078 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 14:46:17,078 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 14:46:17,078 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 14:46:17,088 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 14:46:17,088 :INFO: test_Home :information statement
+2025-01-10 14:46:17,088 :WARNING: test_Home :Something is in warning mode
+2025-01-10 14:46:17,089 :ERROR: test_Home :A major error has happened
+2025-01-10 14:46:17,089 :CRITICAL: test_Home :Critical issue
+2025-01-10 14:46:50,965 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 14:46:50,965 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 14:46:50,965 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 14:46:50,965 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 14:46:50,965 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 14:46:50,976 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 14:46:50,976 :INFO: test_Home :information statement
+2025-01-10 14:46:50,976 :WARNING: test_Home :Something is in warning mode
+2025-01-10 14:46:50,976 :ERROR: test_Home :A major error has happened
+2025-01-10 14:46:50,976 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:10:23,308 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:10:23,309 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:10:23,309 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:10:23,309 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:10:23,309 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:10:23,317 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:10:23,317 :INFO: test_Home :information statement
+2025-01-10 15:10:23,317 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:10:23,317 :ERROR: test_Home :A major error has happened
+2025-01-10 15:10:23,317 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:35:50,355 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:35:50,356 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:35:50,356 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:35:50,356 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:35:50,356 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:35:50,366 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:35:50,367 :INFO: test_Home :information statement
+2025-01-10 15:35:50,367 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:35:50,367 :ERROR: test_Home :A major error has happened
+2025-01-10 15:35:50,367 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:37:31,285 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:37:31,285 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:37:31,285 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:37:31,285 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:37:31,285 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:37:31,301 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:37:31,301 :INFO: test_Home :information statement
+2025-01-10 15:37:31,301 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:37:31,301 :ERROR: test_Home :A major error has happened
+2025-01-10 15:37:31,301 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:39:19,493 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:39:19,493 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:39:19,493 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:39:19,493 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:39:19,493 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:39:19,503 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:39:19,503 :INFO: test_Home :information statement
+2025-01-10 15:39:19,503 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:39:19,503 :ERROR: test_Home :A major error has happened
+2025-01-10 15:39:19,503 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:40:11,300 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:40:11,300 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:40:11,300 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:40:11,300 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:40:11,300 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:40:11,311 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:40:11,311 :INFO: test_Home :information statement
+2025-01-10 15:40:11,311 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:40:11,311 :ERROR: test_Home :A major error has happened
+2025-01-10 15:40:11,311 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:44:09,754 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:44:09,754 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:44:09,754 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:44:09,754 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:44:09,754 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:44:09,769 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:44:09,769 :INFO: test_Home :information statement
+2025-01-10 15:44:09,769 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:44:09,769 :ERROR: test_Home :A major error has happened
+2025-01-10 15:44:09,769 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:44:55,098 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:44:55,098 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:44:55,098 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:44:55,098 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:44:55,102 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:44:55,121 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:44:55,121 :INFO: test_Home :information statement
+2025-01-10 15:44:55,121 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:44:55,121 :ERROR: test_Home :A major error has happened
+2025-01-10 15:44:55,121 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:45:31,073 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:45:31,076 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:45:31,076 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:45:31,076 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:45:31,076 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:45:31,097 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:45:31,097 :INFO: test_Home :information statement
+2025-01-10 15:45:31,097 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:45:31,097 :ERROR: test_Home :A major error has happened
+2025-01-10 15:45:31,103 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:47:20,688 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:47:20,688 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:47:20,688 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:47:20,692 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:47:20,692 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:47:20,708 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:47:20,708 :INFO: test_Home :information statement
+2025-01-10 15:47:20,708 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:47:20,708 :ERROR: test_Home :A major error has happened
+2025-01-10 15:47:20,708 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:47:56,783 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:47:56,783 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:47:56,783 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:47:56,783 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:47:56,783 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:47:56,794 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:47:56,794 :INFO: test_Home :information statement
+2025-01-10 15:47:56,794 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:47:56,794 :ERROR: test_Home :A major error has happened
+2025-01-10 15:47:56,794 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:53:20,591 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:53:20,591 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:53:20,591 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:53:20,591 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:53:20,601 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:53:20,607 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:53:20,607 :INFO: test_Home :information statement
+2025-01-10 15:53:20,607 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:53:20,607 :ERROR: test_Home :A major error has happened
+2025-01-10 15:53:20,607 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:54:55,632 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:54:55,632 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:54:55,632 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:54:55,632 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:54:55,632 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:54:55,641 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:54:55,641 :INFO: test_Home :information statement
+2025-01-10 15:54:55,641 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:54:55,641 :ERROR: test_Home :A major error has happened
+2025-01-10 15:54:55,641 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:56:19,167 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:56:19,167 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:56:19,167 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:56:19,167 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:56:19,167 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:56:19,175 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:56:19,175 :INFO: test_Home :information statement
+2025-01-10 15:56:19,175 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:56:19,175 :ERROR: test_Home :A major error has happened
+2025-01-10 15:56:19,175 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:57:34,316 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:57:34,316 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:57:34,316 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:57:34,316 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:57:34,316 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:57:34,324 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:57:34,324 :INFO: test_Home :information statement
+2025-01-10 15:57:34,324 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:57:34,325 :ERROR: test_Home :A major error has happened
+2025-01-10 15:57:34,325 :CRITICAL: test_Home :Critical issue
+2025-01-10 15:59:52,129 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 15:59:52,132 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 15:59:52,132 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 15:59:52,132 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 15:59:52,132 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 15:59:52,144 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 15:59:52,144 :INFO: test_Home :information statement
+2025-01-10 15:59:52,144 :WARNING: test_Home :Something is in warning mode
+2025-01-10 15:59:52,144 :ERROR: test_Home :A major error has happened
+2025-01-10 15:59:52,145 :CRITICAL: test_Home :Critical issue
+2025-01-10 16:01:04,704 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 16:01:04,705 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 16:01:04,705 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 16:01:04,705 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 16:01:04,705 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 16:01:04,714 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 16:01:04,714 :INFO: test_Home :information statement
+2025-01-10 16:01:04,715 :WARNING: test_Home :Something is in warning mode
+2025-01-10 16:01:04,715 :ERROR: test_Home :A major error has happened
+2025-01-10 16:01:04,715 :CRITICAL: test_Home :Critical issue
+2025-01-10 16:01:38,591 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 16:01:38,591 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 16:01:38,591 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 16:01:38,591 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 16:01:38,591 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 16:01:38,617 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 16:01:38,617 :INFO: test_Home :information statement
+2025-01-10 16:01:38,617 :WARNING: test_Home :Something is in warning mode
+2025-01-10 16:01:38,617 :ERROR: test_Home :A major error has happened
+2025-01-10 16:01:38,617 :CRITICAL: test_Home :Critical issue
+2025-01-10 16:02:42,960 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 16:02:42,961 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 16:02:42,961 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 16:02:42,961 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 16:02:42,961 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 16:02:42,974 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 16:02:42,975 :INFO: test_Home :information statement
+2025-01-10 16:02:42,975 :WARNING: test_Home :Something is in warning mode
+2025-01-10 16:02:42,975 :ERROR: test_Home :A major error has happened
+2025-01-10 16:02:42,975 :CRITICAL: test_Home :Critical issue
+2025-01-10 16:11:24,910 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 16:11:24,915 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 16:11:24,915 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 16:11:24,915 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 16:11:24,916 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 16:11:24,927 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 16:11:24,927 :INFO: test_Home :information statement
+2025-01-10 16:11:24,927 :WARNING: test_Home :Something is in warning mode
+2025-01-10 16:11:24,927 :ERROR: test_Home :A major error has happened
+2025-01-10 16:11:24,927 :CRITICAL: test_Home :Critical issue
+2025-01-10 16:18:34,366 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 16:18:34,371 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 16:18:34,371 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 16:18:34,371 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 16:18:34,371 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 16:18:34,382 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 16:18:34,382 :INFO: test_Home :information statement
+2025-01-10 16:18:34,382 :WARNING: test_Home :Something is in warning mode
+2025-01-10 16:18:34,382 :ERROR: test_Home :A major error has happened
+2025-01-10 16:18:34,382 :CRITICAL: test_Home :Critical issue
+2025-01-10 16:58:00,698 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 16:58:00,699 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 16:58:00,699 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 16:58:00,699 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 16:58:00,699 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 16:58:00,706 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 16:58:00,706 :INFO: test_Home :information statement
+2025-01-10 16:58:00,706 :WARNING: test_Home :Something is in warning mode
+2025-01-10 16:58:00,706 :ERROR: test_Home :A major error has happened
+2025-01-10 16:58:00,706 :CRITICAL: test_Home :Critical issue
+2025-01-10 16:58:41,068 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 16:58:41,068 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 16:58:41,068 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 16:58:41,068 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 16:58:41,068 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 16:58:41,075 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 16:58:41,075 :INFO: test_Home :information statement
+2025-01-10 16:58:41,075 :WARNING: test_Home :Something is in warning mode
+2025-01-10 16:58:41,075 :ERROR: test_Home :A major error has happened
+2025-01-10 16:58:41,075 :CRITICAL: test_Home :Critical issue
+2025-01-10 18:56:59,865 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 18:56:59,866 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 18:56:59,866 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 18:56:59,867 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 18:56:59,867 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 18:56:59,874 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 18:56:59,874 :INFO: test_Home :information statement
+2025-01-10 18:56:59,874 :WARNING: test_Home :Something is in warning mode
+2025-01-10 18:56:59,874 :ERROR: test_Home :A major error has happened
+2025-01-10 18:56:59,874 :CRITICAL: test_Home :Critical issue
+2025-01-10 18:56:59,879 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 18:56:59,879 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 18:56:59,879 :INFO: test_Home :information statement
+2025-01-10 18:56:59,879 :INFO: test_Home :information statement
+2025-01-10 18:56:59,880 :WARNING: test_Home :Something is in warning mode
+2025-01-10 18:56:59,880 :WARNING: test_Home :Something is in warning mode
+2025-01-10 18:56:59,880 :ERROR: test_Home :A major error has happened
+2025-01-10 18:56:59,880 :ERROR: test_Home :A major error has happened
+2025-01-10 18:56:59,880 :CRITICAL: test_Home :Critical issue
+2025-01-10 18:56:59,880 :CRITICAL: test_Home :Critical issue
+2025-01-10 18:58:38,308 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 18:58:38,308 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 18:58:38,308 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 18:58:38,308 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 18:58:38,308 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 18:58:38,323 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 18:58:38,323 :INFO: test_Home :information statement
+2025-01-10 18:58:38,323 :WARNING: test_Home :Something is in warning mode
+2025-01-10 18:58:38,323 :ERROR: test_Home :A major error has happened
+2025-01-10 18:58:38,323 :CRITICAL: test_Home :Critical issue
+2025-01-10 18:58:38,323 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 18:58:38,323 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 18:58:38,323 :INFO: test_Home :information statement
+2025-01-10 18:58:38,323 :INFO: test_Home :information statement
+2025-01-10 18:58:38,332 :WARNING: test_Home :Something is in warning mode
+2025-01-10 18:58:38,332 :WARNING: test_Home :Something is in warning mode
+2025-01-10 18:58:38,333 :ERROR: test_Home :A major error has happened
+2025-01-10 18:58:38,333 :ERROR: test_Home :A major error has happened
+2025-01-10 18:58:38,333 :CRITICAL: test_Home :Critical issue
+2025-01-10 18:58:38,333 :CRITICAL: test_Home :Critical issue
+2025-01-10 19:54:05,669 :DEBUG: pytest_pyfunc_call :A debug statement is executed
+2025-01-10 19:54:05,670 :INFO: pytest_pyfunc_call :information statement
+2025-01-10 19:54:05,670 :WARNING: pytest_pyfunc_call :Something is in warning mode
+2025-01-10 19:54:05,670 :ERROR: pytest_pyfunc_call :A major error has happened
+2025-01-10 19:54:05,670 :CRITICAL: pytest_pyfunc_call :Critical issue
+2025-01-10 19:54:05,681 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 19:54:05,681 :INFO: test_Home :information statement
+2025-01-10 19:54:05,681 :WARNING: test_Home :Something is in warning mode
+2025-01-10 19:54:05,681 :ERROR: test_Home :A major error has happened
+2025-01-10 19:54:05,681 :CRITICAL: test_Home :Critical issue
+2025-01-10 19:54:05,690 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 19:54:05,690 :DEBUG: test_Home :A debug statement is executed
+2025-01-10 19:54:05,690 :INFO: test_Home :information statement
+2025-01-10 19:54:05,690 :INFO: test_Home :information statement
+2025-01-10 19:54:05,690 :WARNING: test_Home :Something is in warning mode
+2025-01-10 19:54:05,690 :WARNING: test_Home :Something is in warning mode
+2025-01-10 19:54:05,690 :ERROR: test_Home :A major error has happened
+2025-01-10 19:54:05,690 :ERROR: test_Home :A major error has happened
+2025-01-10 19:54:05,690 :CRITICAL: test_Home :Critical issue
+2025-01-10 19:54:05,690 :CRITICAL: test_Home :Critical issue
